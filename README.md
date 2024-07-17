@@ -1,2 +1,2 @@
 Proyecto final de BD relacional (SQL) realizado para la materia 'Fundamentos de Bases de Datos', donde se hizo la BD de una empresa real según la información proporcionada por la misma, normalizada hasta la 3FN, y haciendo uso de consultas complejas con GROUP BY, ORDER BY, ASC, DESC y JOIN., además de procedimientos almacenados y triggers.
-Link del documento que muestra el desarrollo: https://unilibrebog-my.sharepoint.com/:b:/g/personal/luped-casasr_unilibre_edu_co/EQKn2-iluI5LkUhThrAnthEBWKmuHHRJF95tQ9bnUlyRIQ?e=o3rwMG
+Link del documento que muestra el desarrollo: https://unilibrebog-my.sharepoint.com/:b:/g/personal/luped-casasr_unilibre_edu_co/EcbzLae2lqpBkO3fX9OBQvsB5-wMoWY3pVEpT4a5ANOMEA?e=duQWdI
